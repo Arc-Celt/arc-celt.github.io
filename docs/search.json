@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Archer Liu’s website for DSCI 521",
+    "section": "",
+    "text": "This is a Quarto website created by Rongze(Arhcer) Liu."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About me",
+    "section": "",
+    "text": "Hi, I’m Rongze (Archer) Liu, a proud Zhejiang University alumnus where I earned my bachelor’s degree. With a background as a Research Study Assistant at ZJU and experience as a Test Development Engineer at Isvision Technology Co., I’ve built a solid foundation in data science. Now, I’m excited to embark on my Master of Data Science journey at UBC Vancouver. I’m passionate about coding and problem-solving, and I’ve dabbled in Python, C, Go, and SQL. When I’m not diving into data, you’ll find me exploring new tech or geeking out over the latest software trends!"
+  }
+]
