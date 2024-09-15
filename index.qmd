@@ -2,4 +2,4 @@
 title: "Archer Liu's website for DSCI 521"
 ---
 
-This is a Quarto website created by Rongze(Arhcer) Liu.
+This is a Quarto website created by Rongze(Archer) Liu.
